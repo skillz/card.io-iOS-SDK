@@ -1,4 +1,4 @@
-card.io SDK for iOS
+card.io SDK for iOS test
 ===================
 
 [card.io](https://www.card.io/) provides fast, easy credit card scanning in mobile apps.
